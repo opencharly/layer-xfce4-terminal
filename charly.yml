@@ -1,7 +1,7 @@
 version: 2026.232.0520
 xfce4-terminal:
     candy:
-        version: 2026.242.1845
+        version: 2026.243.0100
         description: |
             Xfce4 terminal emulator wired into the sway session
             Installs xfce4-terminal and a sway config.d snippet so the terminal
@@ -59,7 +59,7 @@ xfce4-terminal-skill:
             # charly.yml -- typically used via sway-desktop composition
             my-image:
               candy:
-                - '@github.com/opencharly/layer-sway-desktop:v2026.242.1839'
+                - '@github.com/opencharly/layer-sway-desktop:v2026.243.0831'
             ```
             
             ## Used In Boxes
