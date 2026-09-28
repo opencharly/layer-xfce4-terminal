@@ -1,7 +1,5 @@
-version: 2026.232.0520
 xfce4-terminal:
     candy:
-        version: 2026.243.0908
         description: |
             Xfce4 terminal emulator wired into the sway session
             Installs xfce4-terminal and a sway config.d snippet so the terminal
