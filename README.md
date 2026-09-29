@@ -20,7 +20,9 @@ snippet so the terminal is available in the desktop. It is part of the
 ## How to use it
 
 Compose the layer by pinning this repo in a box's `candy:` list — typically
-transitively through the `sway-desktop` composition:
+transitively through the `sway-desktop` composition. The named entity is a box:
+its `candy:` value is the box BODY (holding `base:` and the nested composition
+`candy:` list):
 
 ```yaml
 my-desktop-box:
